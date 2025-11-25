@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Amel 👋
 
-<!--
-**AmelDev2/AmelDev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Junior Front-end Developer** passionate about building web projects, learning new technologies, and improving my coding skills every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Skills
+
+- **Front-end:** HTML, CSS, JavaScript  
+- **Tools:** Git, GitHub, VS Code, Chrome DevTools  
+- **Other:** Basic Python, Problem Solving
+
+---
+
+## 🔹 Projects
+
+### 1. Dashboard Project
+- Built with **HTML, CSS, JavaScript**  
+- Responsive and modern dashboard interface  
+- Includes interactive charts, tables, and UI components  
+- [Live Demo](https://ameldev2.github.io/Dashboard-project/) | [GitHub Repo](https://github.com/AmelDev2/Dashboard-project)
+
+### 2. Third Project
+- Built with **HTML & CSS**  
+- Responsive static web page with clean design  
+- Focused on layout, typography, and styling  
+- [Live Demo](https://ameldev2.github.io/Third-Project/) | [GitHub Repo](https://github.com/AmelDev2/Third-Project)
+
+---
+
+## 🔹 Contact Me
+
+- LinkedIn: [Amel](https://www.linkedin.com/in/amel-a-0602561a7)  
+- Email: amelbusiness60@gmail.com  
+
+---
+
+✨ **Fun Fact:** 💻 I love turning ideas into web projects and learning new skills along the way!
