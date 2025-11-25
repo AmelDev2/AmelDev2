@@ -1,6 +1,7 @@
 # Hi, I'm Amel ![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-### 👩‍💻 Junior Front-end Developer
+### ![Junior Front-end Developer](https://img.shields.io/badge/Junior%20Front--end%20Developer-blue?style=for-the-badge&logo=github&logoColor=white)
+
 
 I'm a **Junior Front-end Developer** passionate about building web projects, learning new technologies, and improving my coding skills every day.
 
