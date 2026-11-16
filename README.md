@@ -2,39 +2,29 @@
 
 ### 👩‍💻 Junior Front-end Developer
 
-I'm a **Junior Front-end Developer** passionate about building web projects, learning new technologies, and improving my coding skills every day.
+I'm a Junior Front-End Developer passionate about building interactive web applications, learning modern technologies, and turning ideas into clean, responsive user experiences.
 
----
-
-## 🔹 Skills
-
-- **Front-end:** HTML, CSS, JavaScript  
-- **Tools:** Git, GitHub, VS Code, Chrome DevTools  
-- **Other:** Basic Python, Problem Solving
-
+🔹 Skills
+- Front-End: HTML, CSS, JavaScript (ES6+), React.js, Tailwind CSS
+- Tools & Workflow: Git, GitHub, VS Code, Chrome DevTools
+- Soft Skills: Ability to Work Independently in Remote Environments, Problem Solving
 ---
 
 ## 🔹 Projects
+1. Exclusive E-Commerce Store (exclusive-store)
+- Built with React, JavaScript, and Tailwind CSS
+- A modern e-commerce web application featuring product browsing, shopping cart functionality, and responsive user interface.
+- [Live Demo](https://exclusive-store-ruddy.vercel.app) | [GitHub Repo](https://github.com/AmelDev2/exclusive-store)
 
-### 1. Dashboard Project
-- Built with **HTML, CSS, JavaScript**  
-- Responsive and modern dashboard interface  
-- Includes interactive charts, tables, and UI components  
-- [Live Demo](https://ameldev2.github.io/Dashboard-project/) | [GitHub Repo](https://github.com/AmelDev2/Dashboard-project)
-
-### 2. Third Project
-- Built with **HTML & CSS**  
-- Responsive static web page with clean design  
-- Focused on layout, typography, and styling  
-- [Live Demo](https://ameldev2.github.io/Third-Project/) | [GitHub Repo](https://github.com/AmelDev2/Third-Project)
-
+2. Kanban Board Task Manager (kanban-board)
+- Built with React and modern front-end tools
+- Interactive task management dashboard allowing users to organize, track, and manage workflows efficiently.
+- [Live Demo](https://kanban-board-one-liard.vercel.app/) | [GitHub Repo](https://github.com/AmelDev2/kanban-board)
 ---
 
 ## 🔹 Contact Me
+- LinkedIn: [Amel](www.linkedin.com/in/amel-a-0602561a7)
+- Portfolio: [amel-dev-portfolio.vercel.app](https://amel-dev-portfolio.vercel.app/)
+- Email: amelbusiness60@gmail.com
 
-- LinkedIn: [Amel](https://www.linkedin.com/in/amel-a-0602561a7)  
-- Email: amelbusiness60@gmail.com  
-
----
-
-✨ **Fun Fact:** 💻 I love turning ideas into web projects and learning new skills along the way!
+✨ Fun Fact: 💻 I love turning ideas into web projects and continuously learning new skills along the way!
