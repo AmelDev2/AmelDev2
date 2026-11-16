@@ -23,7 +23,7 @@ I'm a Junior Front-End Developer passionate about building interactive web appli
 ---
 
 ## 🔹 Contact Me
-- LinkedIn: [Amel](www.linkedin.com/in/amel-a-0602561a7)
+- LinkedIn: [Amel](https://www.linkedin.com/in/amel-a-0602561a7/)
 - Portfolio: [amel-dev-portfolio.vercel.app](https://amel-dev-portfolio.vercel.app/)
 - Email: amelbusiness60@gmail.com
 
